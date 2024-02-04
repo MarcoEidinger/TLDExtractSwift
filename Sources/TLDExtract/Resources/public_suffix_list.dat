@@ -6182,7 +6182,6 @@ azure
 baby
 baidu
 banamex
-bananarepublic
 band
 bank
 bar
@@ -6776,7 +6775,6 @@ office
 okinawa
 olayan
 olayangroup
-oldnavy
 ollo
 omega
 one
@@ -7319,18 +7317,25 @@ zero
 zip
 zone
 zuerich
+12chars.dev
+12chars.it
+12chars.pro
 cc.ua
 inf.ua
 ltd.ua
 611.to
+a2hosted.com
+cpserver.com
 graphox.us
 *.devcdnaccesso.com
 *.on-acorn.io
 activetrail.biz
 adobeaemcloud.com
 *.dev.adobeaemcloud.com
+aem.live
 hlx.live
 adobeaemcloud.net
+aem.page
 hlx.page
 hlx3.page
 adobeio-static.net
@@ -7376,6 +7381,7 @@ execute-api.ap-southeast-2.amazonaws.com
 execute-api.ap-southeast-3.amazonaws.com
 execute-api.ap-southeast-4.amazonaws.com
 execute-api.ca-central-1.amazonaws.com
+execute-api.ca-west-1.amazonaws.com
 execute-api.eu-central-1.amazonaws.com
 execute-api.eu-central-2.amazonaws.com
 execute-api.eu-north-1.amazonaws.com
@@ -7622,6 +7628,16 @@ s3-accesspoint-fips.ca-central-1.amazonaws.com
 s3-fips.ca-central-1.amazonaws.com
 s3-object-lambda.ca-central-1.amazonaws.com
 s3-website.ca-central-1.amazonaws.com
+s3.dualstack.ca-west-1.amazonaws.com
+s3-accesspoint.dualstack.ca-west-1.amazonaws.com
+s3-accesspoint-fips.dualstack.ca-west-1.amazonaws.com
+s3-fips.dualstack.ca-west-1.amazonaws.com
+s3-website.dualstack.ca-west-1.amazonaws.com
+s3.ca-west-1.amazonaws.com
+s3-accesspoint.ca-west-1.amazonaws.com
+s3-accesspoint-fips.ca-west-1.amazonaws.com
+s3-fips.ca-west-1.amazonaws.com
+s3-website.ca-west-1.amazonaws.com
 s3.dualstack.eu-central-1.amazonaws.com
 s3-accesspoint.dualstack.eu-central-1.amazonaws.com
 s3-website.dualstack.eu-central-1.amazonaws.com
@@ -7813,6 +7829,9 @@ notebook.ap-southeast-2.sagemaker.aws
 notebook.ap-southeast-3.sagemaker.aws
 notebook.ap-southeast-4.sagemaker.aws
 notebook.ca-central-1.sagemaker.aws
+notebook-fips.ca-central-1.sagemaker.aws
+notebook.ca-west-1.sagemaker.aws
+notebook-fips.ca-west-1.sagemaker.aws
 notebook.eu-central-1.sagemaker.aws
 notebook.eu-central-2.sagemaker.aws
 notebook.eu-north-1.sagemaker.aws
@@ -7925,6 +7944,8 @@ webview-assets.cloud9.eu-west-2.amazonaws.com
 webview-assets.aws-cloud9.eu-west-3.amazonaws.com
 vfs.cloud9.eu-west-3.amazonaws.com
 webview-assets.cloud9.eu-west-3.amazonaws.com
+webview-assets.aws-cloud9.il-central-1.amazonaws.com
+vfs.cloud9.il-central-1.amazonaws.com
 webview-assets.aws-cloud9.me-south-1.amazonaws.com
 vfs.cloud9.me-south-1.amazonaws.com
 webview-assets.cloud9.me-south-1.amazonaws.com
@@ -7974,11 +7995,13 @@ us-west-2.elasticbeanstalk.com
 *.elb.amazonaws.com.cn
 *.elb.amazonaws.com
 awsglobalaccelerator.com
+*.private.repost.aws
 eero.online
 eero-stage.online
 t3l3p0rt.net
 tele.amune.org
 apigee.io
+panel.dev
 siiites.com
 appspacehosted.com
 appspaceusercontent.com
@@ -8020,6 +8043,7 @@ shopselect.net
 base.shop
 beagleboard.io
 *.beget.app
+pages.gay
 betainabox.com
 bnr.la
 bitbucket.io
@@ -8035,6 +8059,7 @@ bplaced.de
 square7.de
 bplaced.net
 square7.net
+*.s.brave.io
 shop.brendly.rs
 browsersafetymark.io
 uk0.bigv.io
@@ -8610,7 +8635,6 @@ twmail.org
 mymailer.com.tw
 url.tw
 onfabrica.com
-apps.fbsbx.com
 ru.net
 adygeya.ru
 bashkiria.ru
@@ -8725,6 +8749,7 @@ fireweb.app
 flap.id
 onflashdrive.app
 fldrv.com
+flutterflow.app
 fly.dev
 edgeapp.net
 shw.io
@@ -8757,6 +8782,7 @@ futuremailing.at
 *.ex.ortsinfo.at
 *.kunden.ortsinfo.at
 *.statics.cloud
+aliases121.com
 independent-commission.uk
 independent-inquest.uk
 independent-inquiry.uk
@@ -8897,8 +8923,7 @@ london.cloudapps.digital
 pymnt.uk
 ro.im
 goip.de
-run.app
-a.run.app
+*.run.app
 web.app
 *.0emm.com
 appspot.com
@@ -9016,6 +9041,9 @@ ravendb.me
 development.run
 ravendb.run
 homesklep.pl
+*.kin.one
+*.id.pub
+*.kin.pub
 secaas.hk
 hoplix.shop
 orx.biz
@@ -9280,6 +9308,8 @@ hra.health
 miniserver.com
 memset.net
 messerli.app
+atmeta.com
+apps.fbsbx.com
 *.cloud.metacentrum.cz
 custom.metacentrum.cz
 flt.cloud.muni.cz
@@ -9288,9 +9318,12 @@ meteorapp.com
 eu.meteorapp.com
 co.pl
 *.azurecontainer.io
+*.cloudapp.azure.com
+azure-api.net
+azureedge.net
+azurefd.net
 azurewebsites.net
 azure-mobile.net
-cloudapp.net
 azurestaticapps.net
 1.azurestaticapps.net
 2.azurestaticapps.net
@@ -9304,6 +9337,10 @@ eastasia.azurestaticapps.net
 eastus2.azurestaticapps.net
 westeurope.azurestaticapps.net
 westus2.azurestaticapps.net
+cloudapp.net
+trafficmanager.net
+blob.core.windows.net
+servicebus.windows.net
 csx.cc
 mintere.site
 forte.id
@@ -9530,7 +9567,8 @@ mypep.link
 perspecta.cloud
 lk3.ru
 on-web.fr
-bc.platform.sh
+*.upsun.app
+upsunapp.com
 ent.platform.sh
 eu.platform.sh
 us.platform.sh
@@ -9542,6 +9580,7 @@ platterp.us
 pdns.page
 plesk.page
 pleskns.com
+pley.games
 dyn53.io
 onporter.run
 co.bn
@@ -9671,6 +9710,7 @@ sakura.tv
 *.builder.code.com
 *.dev-builder.code.com
 *.stg-builder.code.com
+*.001.test.code-builder-stg.platform.salesforce.com
 sandcats.io
 logoip.de
 logoip.com
@@ -9939,7 +9979,6 @@ de.gt
 to.gt
 be.gy
 cc.hn
-blog.kg
 io.kg
 jp.kg
 tv.kg
@@ -10018,6 +10057,7 @@ nohost.me
 noho.st
 za.net
 za.org
+zap.cloud
 bss.design
 basicserver.io
 virtualserver.io
