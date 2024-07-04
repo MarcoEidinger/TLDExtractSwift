@@ -8252,7 +8252,7 @@ dynamic-dns.info
 feste-ip.net
 knx-server.net
 static-access.net
-*.cprapid.com
+craft.me
 realm.cz
 on.crisp.email
 *.cryptonomic.net
@@ -8262,6 +8262,7 @@ curv.dev
 *.oci.customer-oci.com
 *.ocp.customer-oci.com
 *.ocs.customer-oci.com
+cfolks.pl
 cyclic.app
 cyclic.cloud
 cyclic-app.com
@@ -8310,6 +8311,7 @@ shop.th
 drayddns.com
 shoparena.pl
 dreamhosters.com
+durumis.com
 mydrobo.com
 drud.io
 drud.us
@@ -9026,7 +9028,6 @@ graphic.design
 cloudapps.digital
 london.cloudapps.digital
 pymnt.uk
-ro.im
 goip.de
 blogspot.ae
 blogspot.al
@@ -9138,6 +9139,12 @@ hs.zone
 hashbang.sh
 hasura.app
 hasura-app.io
+hatenablog.com
+hatenadiary.com
+hateblo.jp
+hatenablog.jp
+hatenadiary.jp
+hatenadiary.org
 pages.it.hs-heilbronn.de
 helioho.st
 heliohost.us
@@ -9415,7 +9422,6 @@ barsyonline.co.uk
 mayfirst.info
 mayfirst.org
 hb.cldmail.ru
-cn.vu
 mazeplay.com
 mcpe.me
 mcdir.me
@@ -9484,6 +9490,7 @@ yali.mythic-beasts.com
 cust.retrosnub.co.uk
 ui.nabu.casa
 cloud.nospamproxy.com
+netfy.app
 netlify.app
 4u.com
 ngo.us
@@ -9631,6 +9638,7 @@ stage.nodeart.io
 pcloud.host
 nyc.mn
 prvcy.page
+obl.ong
 observablehq.cloud
 static.observableusercontent.com
 cya.gg
@@ -9710,9 +9718,6 @@ us.platform.sh
 platter-app.com
 platter-app.dev
 platterp.us
-pleskns.com
-pdns.page
-plesk.page
 pley.games
 dyn53.io
 onporter.run
@@ -9738,8 +9743,9 @@ qbuser.com
 cloudsite.builders
 myradweb.net
 servername.us
+myrdbx.io
+site.rb-hosting.io
 instances.spawn.cc
-instantcloud.cn
 ras.ru
 qa2.com
 qcx.io
@@ -9755,7 +9761,6 @@ vapor.cloud
 vaporcloud.io
 rackmaze.com
 rackmaze.net
-g.vbrplsbx.io
 *.on-rancher.cloud
 *.on-k3s.io
 *.on-rio.io
@@ -9877,6 +9882,14 @@ sakura.tv
 *.dev-builder.code.com
 *.stg-builder.code.com
 *.001.test.code-builder-stg.platform.salesforce.com
+*.d.crm.dev
+*.w.crm.dev
+*.wa.crm.dev
+*.wb.crm.dev
+*.wc.crm.dev
+*.wd.crm.dev
+*.we.crm.dev
+*.wf.crm.dev
 sandcats.io
 logoip.com
 logoip.de
@@ -9931,6 +9944,7 @@ magnet.page
 biz.ua
 co.ua
 pp.ua
+as.sh.cn
 sheezy.games
 shiftcrypto.dev
 shiftcrypto.io
@@ -10170,6 +10184,12 @@ bookonline.app
 hotelwithflight.com
 reserve-online.com
 reserve-online.net
+cprapid.com
+pleskns.com
+wp2.host
+pdns.page
+plesk.page
+wpsquared.site
 *.wadl.top
 wedeploy.io
 wedeploy.me
