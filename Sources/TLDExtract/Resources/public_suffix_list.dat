@@ -6206,7 +6206,6 @@ bcn
 beats
 beauty
 beer
-bentley
 berlin
 best
 bestbuy
@@ -6633,7 +6632,6 @@ kyoto
 lacaixa
 lamborghini
 lamer
-lancaster
 land
 landrover
 lanxess
@@ -7984,8 +7982,6 @@ analytics-gateway.eu-west-1.amazonaws.com
 analytics-gateway.us-east-1.amazonaws.com
 analytics-gateway.us-east-2.amazonaws.com
 analytics-gateway.us-west-2.amazonaws.com
-appwrite.global
-*.appwrite.run
 amplifyapp.com
 *.awsapprunner.com
 webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -8103,6 +8099,8 @@ siiites.com
 appspacehosted.com
 appspaceusercontent.com
 appudo.net
+appwrite.global
+*.appwrite.run
 on-aptible.com
 f5.si
 arvanedge.ir
@@ -8267,6 +8265,8 @@ cdn.cloudflareglobal.net
 cust.cloudscale.ch
 objects.lpg.cloudscale.ch
 objects.rma.cloudscale.ch
+lpg.objectstorage.ch
+rma.objectstorage.ch
 wnext.app
 cnpy.gdn
 *.otap.co
@@ -8675,6 +8675,7 @@ mytuleap.com
 tuleap-partners.com
 encr.app
 encoreapi.com
+lp.dev
 eu.encoway.cloud
 eu.org
 al.eu.org
@@ -8846,6 +8847,7 @@ app.os.stg.fedoraproject.org
 mydobiss.com
 fh-muenster.io
 figma.site
+preview.site
 filegear.me
 firebaseapp.com
 fldrv.com
@@ -9064,7 +9066,6 @@ günstigliefern.de
 xn--gnstigliefern-wob.de
 häkkinen.fi
 xn--hkkinen-5wa.fi
-hrsn.dev
 hashbang.sh
 hasura.app
 hasura-app.io
@@ -9314,7 +9315,6 @@ filegear-sg.me
 ggff.net
 *.user.localcert.dev
 localcert.net
-localhostcert.net
 localtonet.com
 *.localto.net
 lodz.pl
@@ -9371,6 +9371,8 @@ barsy.support
 barsy.uk
 barsy.co.uk
 barsyonline.co.uk
+luyani.app
+luyani.net
 *.magentosite.cloud
 hb.cldmail.ru
 matlab.cloud
@@ -9619,6 +9621,7 @@ service.one
 simplesite.pl
 123paginaweb.pt
 123minsida.se
+onid.ca
 is-a-fullstack.dev
 is-cool.dev
 is-not-a.dev
@@ -9687,12 +9690,10 @@ xen.prgmr.com
 priv.at
 c01.kr
 eliv-dns.kr
+mmv.kr
+vki.kr
+dev.project-study.com
 protonet.io
-sub.psl.hrsn.dev
-*.wc.psl.hrsn.dev
-!ignored.wc.psl.hrsn.dev
-*.sub.wc.psl.hrsn.dev
-!ignored.sub.wc.psl.hrsn.dev
 chirurgiens-dentistes-en-france.fr
 byen.site
 pubtls.org
@@ -10132,7 +10133,7 @@ urown.cloud
 dnsupdate.info
 us.org
 v.ua
-express.val.run
+val.run
 web.val.run
 vercel.app
 v0.build
@@ -10167,6 +10168,7 @@ toolforge.org
 wmcloud.org
 wmflabs.org
 wdh.app
+hrsn.dev
 windsurf.app
 windsurf.build
 panel.gg
