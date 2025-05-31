@@ -1084,6 +1084,7 @@ biz.id
 co.id
 desa.id
 go.id
+kop.id
 mil.id
 my.id
 net.id
@@ -8379,6 +8380,14 @@ deno.net
 dedyn.io
 deta.app
 deta.dev
+caffeine.ai
+id.ai
+icp-api.io
+icp0.io
+*.raw.icp0.io
+icp1.io
+*.raw.icp1.io
+caffeine.site
 dfirma.pl
 dkonto.pl
 you2.pl
@@ -9233,6 +9242,7 @@ is-a-good.dev
 is-a.dev
 iservschule.de
 mein-iserv.de
+schuldock.de
 schulplattform.de
 schulserver.de
 test-iserv.de
@@ -10000,7 +10010,6 @@ playstation-cloud.com
 srht.site
 apps.lair.io
 *.stolos.io
-ind.mom
 customer.speedpartner.de
 myspreadshop.at
 myspreadshop.com.au
