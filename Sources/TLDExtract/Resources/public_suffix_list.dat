@@ -9091,6 +9091,7 @@ graphic.design
 goip.de
 *.hosted.app
 *.run.app
+*.mtls.run.app
 web.app
 *.0emm.com
 appspot.com
@@ -9229,6 +9230,7 @@ botda.sh
 botdash.xyz
 apps-1and1.com
 live-website.com
+webspace-host.com
 apps-1and1.net
 websitebuilder.online
 app-ionos.space
@@ -9427,6 +9429,7 @@ barsy.support
 barsy.uk
 barsy.co.uk
 barsyonline.co.uk
+*.lutrausercontent.com
 luyani.app
 luyani.net
 *.magentosite.cloud
@@ -10104,6 +10107,7 @@ sopot.pl
 taveusercontent.com
 p.tawk.email
 p.tawkto.email
+tche.br
 site.tb-hosting.com
 edugit.io
 s3.teckids.org
@@ -10195,6 +10199,7 @@ vercel.app
 v0.build
 vercel.dev
 vusercontent.net
+vercel.run
 now.sh
 2038.io
 v-info.info
