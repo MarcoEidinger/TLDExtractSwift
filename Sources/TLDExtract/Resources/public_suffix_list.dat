@@ -1100,6 +1100,7 @@ utazas.hu
 video.hu
 id
 ac.id
+ai.id
 biz.id
 co.id
 desa.id
@@ -5756,8 +5757,6 @@ cc.mt.us
 lib.mt.us
 cc.nc.us
 lib.nc.us
-cc.nd.us
-lib.nd.us
 cc.ne.us
 lib.ne.us
 cc.nh.us
@@ -8284,7 +8283,9 @@ transfer-webapp.cn-north-1.on.amazonwebservices.com.cn
 transfer-webapp.cn-northwest-1.on.amazonwebservices.com.cn
 eero.online
 eero-stage.online
+opentunnel.xyz
 antagonist.cloud
+claude.app
 apigee.io
 panel.dev
 siiites.com
@@ -8321,6 +8322,9 @@ poivron.org
 potager.org
 sweetpepper.org
 myasustor.com
+*.atlassian-3p.com
+*.atlassian-3p-us-gov-mod.com
+*.atlassian-isolated-3p.com
 cdn.prod.atlassian-dev.net
 myfritz.link
 myfritz.net
@@ -8380,10 +8384,12 @@ vm.bytemark.co.uk
 cafjs.com
 canva-apps.cn
 my.canvasite.cn
+khsj.cn
 canva-apps.com
 canva-hosted-embed.com
 canvacode.com
 rice-labs.com
+canva.link
 canva.run
 my.canva.site
 drr.ac
@@ -8525,7 +8531,6 @@ knx-server.net
 static-access.net
 craft.me
 realm.cz
-on.crisp.email
 *.cryptonomic.net
 cfolks.pl
 cyon.link
@@ -8563,6 +8568,9 @@ deno.dev
 deno-staging.dev
 deno.net
 sandbox.deno.net
+deployagent.com
+piebox.site
+deployagent.space
 dedyn.io
 deta.app
 deta.dev
@@ -9017,6 +9025,7 @@ on.expo.app
 staging.expo.app
 on.staging.expo.app
 onfabrica.com
+fspages.org
 ru.net
 adygeya.ru
 bashkiria.ru
@@ -9119,6 +9128,7 @@ app.os.fedoraproject.org
 app.os.stg.fedoraproject.org
 mydobiss.com
 fh-muenster.io
+payload.dev
 figma.site
 figma-gov.site
 preview.site
@@ -9330,8 +9340,6 @@ translate.goog
 cloudfunctions.net
 goupile.fr
 pymnt.uk
-cloudapps.digital
-london.cloudapps.digital
 gov.nl
 grafana-dev.net
 grayjayleagues.com
@@ -9375,6 +9383,7 @@ homesklep.pl
 *.kin.one
 *.id.pub
 *.kin.pub
+seprox.hooc.me
 hoplix.shop
 orx.biz
 biz.ng
@@ -9389,6 +9398,7 @@ gen.ng
 ltd.ng
 ngo.ng
 plc.ng
+hstgr.cloud
 hostyhosting.io
 hf.space
 static.hf.space
@@ -9562,6 +9572,15 @@ us1-plenit.com
 webadorsite.com
 jouwweb.site
 js.org
+elastic.k2.cloud
+lb.ru-msk.k2.cloud
+s3.ru-msk.k2.cloud
+website.ru-msk.k2.cloud
+lb.ru-spb.k2.cloud
+s3.ru-spb.k2.cloud
+website.ru-spb.k2.cloud
+s3.k2.cloud
+website.k2.cloud
 kaas.gg
 khplay.nl
 kapsi.fi
@@ -9702,6 +9721,7 @@ memset.net
 messerli.app
 atmeta.com
 apps.fbsbx.com
+*.metaaiusercontent.com
 *.cloud.metacentrum.cz
 custom.metacentrum.cz
 flt.cloud.muni.cz
@@ -9900,6 +9920,31 @@ noop.app
 *.code.run
 *.database.run
 *.migration.run
+aberdeen.wa.us
+bainbridge-isl.wa.us
+bellevue.wa.us
+bremerton.wa.us
+centralia.wa.us
+chehalis.wa.us
+forks.wa.us
+gig-harbor.wa.us
+hoquiam.wa.us
+keyport.wa.us
+kingston.wa.us
+olympia.wa.us
+port-angeles.wa.us
+port-ludlow.wa.us
+port-orchard.wa.us
+port-townsend.wa.us
+poulsbo.wa.us
+redmond.wa.us
+renton.wa.us
+sea.wa.us
+seattle.wa.us
+sequim.wa.us
+shelton.wa.us
+silverdale.wa.us
+yarrow-point.wa.us
 noticeable.news
 notion.site
 dnsking.ch
@@ -9980,7 +10025,6 @@ own.pm
 ox.rs
 oy.lc
 pgfog.com
-pagexl.com
 gotpantheon.com
 pantheonsite.io
 *.paywhirl.com
@@ -9991,6 +10035,7 @@ srv.us
 gh.srv.us
 gl.srv.us
 mypep.link
+pplx.app
 perspecta.cloud
 forgeblocks.com
 id.forgerock.io
@@ -10289,6 +10334,9 @@ biz.ua
 co.ua
 pp.ua
 as.sh.cn
+vicp.fun
+yicp.fun
+zicp.fun
 sheezy.games
 myshopblocks.com
 myshopify.com
@@ -10361,6 +10409,7 @@ stackit.gg
 stackit.rocks
 stackit.run
 stackit.zone
+sryze.cc
 indevs.in
 musician.io
 novecore.site
@@ -10457,6 +10506,8 @@ cust.prod.thingdust.io
 cust.testing.thingdust.io
 reservd.testing.thingdust.io
 tickets.io
+t3.storage.dev
+t3.storageapi.dev
 arvo.network
 azimuth.network
 tlon.network
@@ -10525,6 +10576,8 @@ now.sh
 v-info.info
 vistablog.ir
 deus-canvas.com
+vivenushop.com
+vivenushop.dev
 voorloper.cloud
 *.vultrobjects.com
 wafflecell.com
@@ -10533,10 +10586,9 @@ wasmer.app
 webflow.io
 webflowtest.io
 *.webhare.dev
-bookonline.app
 hotelwithflight.com
-reserve-online.com
 reserve-online.net
+book.online
 cprapid.com
 pleskns.com
 wp2.host
@@ -10604,6 +10656,8 @@ za.org
 zap.cloud
 zeabur.app
 *.zerops.app
+prg1-zerops.zone
+*.zerops.zone
 bss.design
 basicserver.io
 virtualserver.io
