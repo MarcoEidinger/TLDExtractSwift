@@ -917,12 +917,16 @@ edu.gd
 gov.gd
 ge
 com.ge
+cyb.ge
 edu.ge
 gov.ge
+llc.ge
 net.ge
+online.ge
 org.ge
 pvt.ge
 school.ge
+tnx.ge
 gf
 gg
 co.gg
@@ -1150,7 +1154,9 @@ in
 5g.in
 6g.in
 ac.in
+aero.in
 ai.in
+alumni.in
 am.in
 bank.in
 bihar.in
@@ -1185,8 +1191,10 @@ pg.in
 post.in
 pro.in
 res.in
+school.in
 travel.in
 tv.in
+ub.in
 uk.in
 up.in
 us.in
@@ -1285,7 +1293,6 @@ trentin-südtirol.it
 xn--trentin-sdtirol-7vb.it
 trentin-sued-tirol.it
 trentin-suedtirol.it
-trentino.it
 trentino-a-adige.it
 trentino-aadige.it
 trentino-alto-adige.it
@@ -1309,7 +1316,6 @@ trentinostirol.it
 trentinosud-tirol.it
 trentinosüd-tirol.it
 xn--trentinosd-tirol-rzb.it
-trentinosudtirol.it
 trentinosüdtirol.it
 xn--trentinosdtirol-7vb.it
 trentinosued-tirol.it
@@ -1328,7 +1334,6 @@ umbria.it
 val-d-aosta.it
 val-daosta.it
 vald-aosta.it
-valdaosta.it
 valle-aosta.it
 valle-d-aosta.it
 valle-daosta.it
@@ -1368,7 +1373,6 @@ aosta.it
 aoste.it
 ap.it
 aq.it
-aquila.it
 ar.it
 arezzo.it
 ascoli-piceno.it
@@ -1599,6 +1603,9 @@ sondrio.it
 sp.it
 sr.it
 ss.it
+su.it
+sud-sardegna.it
+sudsardegna.it
 südtirol.it
 xn--sdtirol-n2a.it
 suedtirol.it
@@ -1620,6 +1627,7 @@ trani-barletta-andria.it
 traniandriabarletta.it
 tranibarlettaandria.it
 trapani.it
+trentino.it
 trento.it
 treviso.it
 trieste.it
@@ -1638,6 +1646,7 @@ ve.it
 venezia.it
 venice.it
 verbania.it
+verbano-cusio-ossola.it
 vercelli.it
 verona.it
 vi.it
@@ -3895,13 +3904,17 @@ no
 fhs.no
 folkebibl.no
 fylkesbibl.no
+gielda.no
+herad.no
 idrett.no
+kommune.no
 museum.no
 priv.no
+suohkan.no
+tjielte.no
+uenorge.no
 vgs.no
 dep.no
-herad.no
-kommune.no
 mil.no
 stat.no
 aa.no
@@ -4065,7 +4078,7 @@ askvoll.no
 asnes.no
 åsnes.no
 xn--snes-poa.no
-audnedaln.no
+audnedal.no
 aukra.no
 aure.no
 aurland.no
@@ -4201,7 +4214,6 @@ fosnes.no
 fræna.no
 xn--frna-woa.no
 frana.no
-frei.no
 frogn.no
 froland.no
 frosta.no
@@ -4261,6 +4273,8 @@ halden.no
 halsa.no
 hamar.no
 hamaroy.no
+hamarøy.no
+xn--hamary-fya.no
 hammarfeasta.no
 hámmárfeasta.no
 xn--hmmrfeasta-s4ac.no
@@ -4326,6 +4340,8 @@ kárášjohka.no
 xn--krjohka-hwab49j.no
 karasjok.no
 karlsoy.no
+karlsøy.no
+xn--karlsy-fya.no
 karmoy.no
 karmøy.no
 xn--karmy-yua.no
@@ -4565,6 +4581,7 @@ ralingen.no
 rana.no
 randaberg.no
 rauma.no
+re.no
 rendalen.no
 rennebu.no
 rennesoy.no
@@ -4760,6 +4777,7 @@ xn--tysvr-vra.no
 tysvar.no
 ullensaker.no
 ullensvang.no
+ulstein.no
 ulvik.no
 unjarga.no
 unjárga.no
@@ -5378,7 +5396,6 @@ mi.th
 net.th
 or.th
 tj
-ac.tj
 biz.tj
 co.tj
 com.tj
@@ -7151,6 +7168,7 @@ watch
 watches
 weather
 weatherchannel
+web
 webcam
 weber
 website
@@ -7389,7 +7407,6 @@ ltd.ua
 611.to
 a2hosted.com
 cpserver.com
-*.on-acorn.io
 activetrail.biz
 adaptable.app
 myaddr.dev
@@ -8378,9 +8395,6 @@ radio.fm
 cdn.bubble.io
 bubbleapps.io
 *.bwcloud-os-instance.de
-uk0.bigv.io
-dh.bytemark.co.uk
-vm.bytemark.co.uk
 cafjs.com
 canva-apps.cn
 my.canvasite.cn
@@ -8497,6 +8511,9 @@ cnpy.gdn
 *.otap.co
 co.ca
 co.com
+sch.ac
+dev.cv
+store.cv
 codeberg.page
 csb.app
 preview.csb.app
@@ -8531,7 +8548,6 @@ knx-server.net
 static-access.net
 craft.me
 realm.cz
-*.cryptonomic.net
 cfolks.pl
 cyon.link
 cyon.site
@@ -8572,8 +8588,6 @@ deployagent.com
 piebox.site
 deployagent.space
 dedyn.io
-deta.app
-deta.dev
 deuxfleurs.eu
 deuxfleurs.page
 *.at.ply.gg
@@ -9037,7 +9051,6 @@ expo.app
 on.expo.app
 staging.expo.app
 on.staging.expo.app
-onfabrica.com
 fspages.org
 ru.net
 adygeya.ru
@@ -9443,8 +9456,6 @@ in-vpn.net
 in-dsl.org
 in-vpn.org
 oninferno.net
-biz.at
-info.at
 info.cx
 ac.leg.br
 al.leg.br
@@ -9492,6 +9503,9 @@ iopsys.se
 *.dweb.link
 *.inbrowser.link
 ipifony.net
+home64.de
+ipv64.de
+ipv64.net
 ir.md
 is-a-good.dev
 iservschule.de
@@ -9721,7 +9735,6 @@ modelscape.com
 mwcloudnonprod.com
 polyspace.com
 mayfirst.info
-mayfirst.org
 mcdir.me
 mcdir.ru
 vps.mcdir.ru
@@ -10064,6 +10077,7 @@ eu.platform.sh
 us.platform.sh
 *.platformsh.site
 *.tst.site
+playcode.site
 pley.games
 onporter.run
 co.bn
@@ -10081,7 +10095,6 @@ eliv-dns.kr
 mmv.kr
 vki.kr
 dev.project-study.com
-protonet.io
 platter-app.dev
 e.id
 chirurgiens-dentistes-en-france.fr
@@ -10170,7 +10183,6 @@ worf.replit.dev
 repl.run
 resindevice.io
 devices.resinstaging.io
-hzc.io
 adimo.co.uk
 itcouldbewor.se
 aus.basketball
@@ -10332,6 +10344,7 @@ dedibox.fr
 schokokeks.net
 gov.scot
 service.gov.scot
+mygov.scot
 scrysec.com
 client.scrypted.io
 firewall-gateway.com
@@ -10432,7 +10445,6 @@ sryze.cc
 indevs.in
 musician.io
 novecore.site
-api.stdlib.com
 statichost.page
 feedback.ac
 forms.ac
@@ -10447,7 +10459,6 @@ surveys.so
 ipfs.storacha.link
 ipfs.w3s.link
 storebase.store
-storj.farm
 strapiapp.com
 media.strapiapp.com
 vps-host.net
@@ -10652,6 +10663,7 @@ raffleentry.org.uk
 weeklylottery.org.uk
 wpenginepowered.com
 js.wpenginepowered.com
+grok.me
 *.xenonconnect.de
 half.host
 xnbay.com
